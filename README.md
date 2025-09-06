@@ -1,3 +1,3 @@
 # test-repo
 for testing
-in git
+in github
